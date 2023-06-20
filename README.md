@@ -23,14 +23,20 @@ This code will encrypt any given text. It will going to use the 15th letter you 
 #### How to use
 When you run the code it will ask you to input your text:
 
-![](Screenshot 2023-06-20 at 18.31.15.png)
+<img width="1680" alt="Screenshot 2023-06-20 at 18 31 15" src="https://github.com/Albert9111/finalCapstone/assets/127996708/876c0578-c86c-42aa-a4cb-fca0a08d545c">
+
+
 
 
 After you entered your text just press enter:
-/../assets/images/Screenshot 2023-06-20 at 18.31.26.png
+
+<img width="1680" alt="Screenshot 2023-06-20 at 18 31 26" src="https://github.com/Albert9111/finalCapstone/assets/127996708/5c519c3c-0270-480c-aee4-1ae43b8f7197">
+
+
 
 You can enjoy your encrypted text: 
-/../assets/images/Screenshot 2023-06-20 at 18.31.36.png
+
+<img width="1680" alt="Screenshot 2023-06-20 at 18 31 36" src="https://github.com/Albert9111/finalCapstone/assets/127996708/3bfb31ae-b097-4db8-9162-5029af2915d7">
 
 
 
