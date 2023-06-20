@@ -23,7 +23,7 @@ This code will encrypt any given text. It will going to use the 15th letter you 
 #### How to use
 When you run the code it will ask you to input your text:
 
-Screenshot 2023-06-20 at 18.31.15.png
+/assets/Screenshot 2023-06-20 at 18.31.15.png
 
 After you entered your text just press enter:
 /../assets/images/Screenshot 2023-06-20 at 18.31.26.png
